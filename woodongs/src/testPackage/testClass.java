@@ -5,10 +5,6 @@ public class testClass {
 		System.out.println("Hi");
 		System.out.println("Hi");
 		System.out.println("Hi");
-		System.out.println("Hi");
-		System.out.println("Hi");
-		System.out.println("Hi");
-		System.out.println("Hi");
 	}
 
 }
